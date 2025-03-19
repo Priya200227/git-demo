@@ -1,2 +1,3 @@
-# git-demo
+# Git-Demo
 This is my first git repository.
+Author - JyothiPriya
